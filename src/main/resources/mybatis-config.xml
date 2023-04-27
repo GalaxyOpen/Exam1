@@ -3,6 +3,5 @@
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
     <typeAliases>
-        <typeAlias type="com.icia.exam1.DTO.PostDTO" alias="post" />
-    </typeAliases>
+        <typeAlias type="com.icia.exam.DTO.ExamDTO" alias="exam"/></typeAliases>
 </configuration>
